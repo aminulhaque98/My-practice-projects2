@@ -5,11 +5,13 @@ body {
 section {
     display: flex;
     width: 50%;
+    background-image: url(images/);
 }
 
 h1 {
     font-weight: 700;
     font-size: 50px;
+    color: grey;
 }
 
 span {
@@ -25,4 +27,9 @@ span {
     text-shadow: 10px green;
     font-weight: 700;
 
+}
+
+#size-set {
+    padding-top: 3cm;
+    padding-left: 2cm;
 }
