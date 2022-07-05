@@ -1,3 +1,17 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+section {
+    display: flex;
+    width: 50%;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 50px;
+}
+
+span {
+    color: orange;
+}
