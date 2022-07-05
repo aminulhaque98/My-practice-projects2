@@ -1,14 +1,15 @@
 body {
     font-family: 'Poppins', sans-serif;
+
 }
 
-section {
+.flaxible-containar {
     display: flex;
     width: 50%;
-    background-image: url(images/);
+    background-image: url(Group-8449.png);
 }
 
-h1 {
+#current {
     font-weight: 700;
     font-size: 50px;
     color: grey;
@@ -33,3 +34,5 @@ span {
     padding-top: 3cm;
     padding-left: 2cm;
 }
+
+#site-change {}
